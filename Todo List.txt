@@ -1,0 +1,8 @@
+Basic Computer Vision Techniques 
+   1. Corner Detection
+Applications
+   1. Text Detection 
+   2. Face Detection
+   3. Lips Detection
+   
+   
